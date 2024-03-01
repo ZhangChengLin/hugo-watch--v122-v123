@@ -1,0 +1,9 @@
+hugoVersion:
+    extended: true
+    min: "0.122.0"
+    max: "0.122.0"
+mounts:
+    -   source: v122/content
+        target: content
+    -   source: v122/layouts
+        target: layouts
